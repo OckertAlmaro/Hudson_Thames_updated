@@ -14,7 +14,7 @@ setup(
     url='https://github.com/OckertAlmaro/Hudson_Thames_updated',
     packages=find_packages(),
     install_requires=[
-        'numpy', 'pandas', 'datetime', 'timedelta'
+        'numpy', 'pandas', 'datetime', 'timedelta', 'math'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
