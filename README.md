@@ -29,9 +29,9 @@ Copy the text/csv file containing the financial data you wish to analyse into th
 
 Relatively simple, you just need to run the bars.py script.
 
-- ```cd ~/repos/Hudson_Thames/tickbar/tickbar/```
-- ```python bar.py```
+- ```cd ~/repos/Hudson_Thames/tickbar/```
+- ```python bars.py```
 
 To run the unit tests,
-- ```cd ~/repos/Hudson_Thames/tickbar/tickbar/tests/```
+- ```cd ~/repos/Hudson_Thames/tickbar/tests/```
 - ```python test_bar.py```
