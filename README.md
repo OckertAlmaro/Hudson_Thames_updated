@@ -31,6 +31,7 @@ Relatively simple, you just need to run the bars.py script.
 
 - ```cd ~/repos/Hudson_Thames/tickbar/tickbar/```
 - ```python bar.py```
+
 To run the unit tests,
 - ```cd ~/repos/Hudson_Thames/tickbar/tickbar/tests/```
 - ```python test_bar.py```
