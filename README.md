@@ -6,12 +6,11 @@ This is a prototype framework to calculate the time, volume, and tick bars for f
 ## Installation
 **1. Install Dependencies**
 
-On your local laptop, open the terminal and install dependencies as shown below.
+On your local laptop, open the terminal and install dependencies as shown below. Follow the instructions step by step.
+- ```mkdir ~/repos```
+- ```cd ~/repos```
+- ```git clone https://<username>@bitbucket.org/must_research/knowit.git```
 
-Locate the installed directory and install conda: [use defaults except: change location to ~/local/miniconda3]
-
-```bash Miniconda3-latest-Linux-x86_64.sh``` 
-(Ensure conda 4.12+ is installed. You might need to restart your terminal after installation)
 
 **2. Clone into KnowIt repository**
 
